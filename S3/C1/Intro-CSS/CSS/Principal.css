@@ -1,0 +1,32 @@
+h1 {
+  color: blue;
+  font-size: 20px;
+  font-family: verdana;
+}
+
+/*Selectores*/
+/** {
+font-family: Verdana;
+}*/
+
+body {
+  font-family: verdana;
+  margin: 0px;
+}
+
+header {
+  background: CornflowerBlue;
+  color: white;
+  margin: 0px 0px;
+  padding: 20px 10px;
+  border: 10px dotted green;
+}
+.portada {
+  text-align: center;
+  background: Gainsboro;
+}
+
+#main-footer {
+  text-align: center;
+  font-weight: bold;
+}
