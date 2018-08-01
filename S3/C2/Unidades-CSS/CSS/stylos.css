@@ -1,0 +1,59 @@
+body {
+  background: #2FA4FF;
+}
+
+header {
+  background: #F7FFE5;
+  text-align: center;
+}
+
+li {
+  display: flex;
+}
+
+.main-box {
+  background: #F7FFE5;
+  width: 500px;
+  height: 400px;
+}
+
+/*para las clases de valores absolutos*/
+.a-1 {
+  background: rgb(255,255,255);
+  width: 300px;
+  height: 55px;
+}
+
+/*colores
+RGB
+hexadecimal
+RGBA transparencias
+*/
+
+.a-2 {
+  margin: 10px;
+  background: #F7FFE5;
+  width: 10cm;
+  height: 10cm;
+}
+
+.a-3 {
+  margin: 10px;
+  background: rgba(0,0,0,0.7);
+  width: 10mm;
+  height: 50mm;
+}
+
+.a-4 {
+  margin: 10px;
+  background: rgba(255,255,255,0.7);
+  width: 5in;
+  height: 5in;
+}
+
+.r-1 {
+  background: #F7FFE5;
+  width: 50%;
+  height: 200px;
+  margin-top:10px
+}
