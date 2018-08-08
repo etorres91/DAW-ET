@@ -49,11 +49,13 @@ RGBA transparencias
   background: rgba(255,255,255,0.7);
   width: 5in;
   height: 5in;
+  font-size: 2.8em;
 }
 
 .r-1 {
   background: #F7FFE5;
   width: 50%;
   height: 200px;
-  margin-top:10px
+  margin-top:10px;
+  font-size: 3em;
 }
